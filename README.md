@@ -14,7 +14,9 @@
 📩 Connect with me:
 https://www.linkedin.com/in/shraddha-anbhule28/
 
+
 🛠 Languages and Tools:
+
 git github python Anaconda Text Jupyter Text  Visual Studio Code
 
 NumPY pandas Matplotlib seaborn Text
