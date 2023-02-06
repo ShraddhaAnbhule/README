@@ -23,32 +23,34 @@ https://www.linkedin.com/in/shraddha-anbhule28/
 
 🛠 Languages and Tools:
 
-git github
+         git github
 
-python
+         python
 
-Anaconda Text 
+         Anaconda Text 
 
-Jupyter Text 
+         Jupyter Text 
 
-Visual Studio Code
+         Visual Studio Code
 
-NumPY 
+         NumPY 
 
-pandas
+         pandas
 
-Matplotlib 
+         Matplotlib 
 
-seaborn 
+         seaborn 
 
-scikit_learn
+         scikit_learn
 
-mssql 
+         mssql 
 
-mysql 
+         mysql 
 
-Windows Text 
+         Windows Text 
 
-Sublime Text 
+         Sublime Text 
 
-PowerBI
+         PowerBI
+         
+         Tableau
